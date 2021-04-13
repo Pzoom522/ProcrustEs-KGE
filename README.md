@@ -5,9 +5,9 @@ Code for [Highly Efficient Knowledge Graph Embedding Learning with Orthogonal Pr
 If you like our project or find it useful, please give us a :star: and cite us
 ```bib
 @inproceedings{ProcrustEs-KGE-2021,
-    title={Highly Efficient Knowledge Graph Embedding Learning with {O}rthogonal {P}rocrustes {A}nalysis}, 
-    author={Xutan Peng and Guanyi Chen and Chenghua Lin and Mark Stevenson},
-    year={2021},
+    title = {Highly Efficient Knowledge Graph Embedding Learning with {O}rthogonal {P}rocrustes {A}nalysis}, 
+    author = {Xutan Peng and Guanyi Chen and Chenghua Lin and Mark Stevenson},
+    year = {2021},
     booktitle = "Proceedings of the 2021 Conference of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies",
     address = "Online",
     publisher = "Association for Computational Linguistics"
