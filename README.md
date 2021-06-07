@@ -22,7 +22,7 @@ An example command:
 where `lr` is for the learning rate, `td` is for the total number of dimensions, and `sd` is the number of dimensions in a sub-space (NB: `sd`|`td`).
 
 ### Test
-Please use `model_test.py` to extend the code of [RotatE](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding). All instructions are consistent except the additional `self.td` and `self.sd` should be added (NB: need to keep the training configs).
+Please use [model_test.py](https://github.com/Pzoom522/ProcrustEs-KGE/blob/main/model_test.py) to extend the code of [RotatE](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding). All instructions are consistent except the additional `self.td` and `self.sd` should be added (NB: need to keep the training configs).
 
 ## About
 If you like our project or find it useful, please give us a :star: and cite us
