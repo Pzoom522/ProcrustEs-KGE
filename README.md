@@ -3,7 +3,7 @@ Code for [Highly Efficient Knowledge Graph Embedding Learning with Orthogonal Pr
 
 __:see_no_evil: A more detailed readme is coming soon__
 
-## Tested requirements:
+## Tested environment
 
 - numpy==1.18.5
 - torch==1.6.0
