@@ -24,7 +24,7 @@ where `lr` is for the learning rate, `td` is for the total number of dimensions,
 ### Test
 Please use [model_test.py](https://github.com/Pzoom522/ProcrustEs-KGE/blob/main/model_test.py) to extend the code of [RotatE](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding). All instructions are consistent except the additional `self.td` and `self.sd` should be added (NB: need to keep the training configs).
 
-### Visualisation
+### Visualise
 We provide an __[interactive demo](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/Pzoom522/ProcrustEs-KGE/main/vis/show.json)__ for the 3D PCA result of trained WN18RR entity embeddings (_Fig. 4_ in the paper).
 
 ![fig4](https://raw.githubusercontent.com/Pzoom522/ProcrustEs-KGE/main/vis/fig4.png)
