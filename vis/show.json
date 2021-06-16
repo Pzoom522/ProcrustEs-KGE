@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "ProcrustEs-vis",
+      "tensorShape": [
+        40943,
+        3
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/Pzoom522/ProcrustEs-KGE/main/vis/3d_pca.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/Pzoom522/ProcrustEs-KGE/main/vis/entities.tsv"
+    }
+  ]
+}
