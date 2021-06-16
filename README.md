@@ -7,7 +7,7 @@ __:see_no_evil: A more detailed readme is coming soon__
 
 - numpy==1.18.5
 - torch==1.6.0
-- experiment_impact_tracker==0.1.8 (please install via [source](https://github.com/Breakend/experiment-impact-tracker))
+- experiment_impact_tracker==0.1.8
 - scikit_learn==0.23.2
 
 - NVIDIA GTX 1080 Ti GPU + Intel Core i9-9900K CPU
@@ -23,6 +23,11 @@ where `lr` is for the learning rate, `td` is for the total number of dimensions,
 
 ### Test
 Please use [model_test.py](https://github.com/Pzoom522/ProcrustEs-KGE/blob/main/model_test.py) to extend the code of [RotatE](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding). All instructions are consistent except the additional `self.td` and `self.sd` should be added (NB: need to keep the training configs).
+
+### Visualisation
+We provide an __[interactive demo](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/Pzoom522/ProcrustEs-KGE/main/vis/show.json)__ for the 3D PCA result of trained WN18RR entity embeddings (_Fig. 4_ in the paper).
+
+![fig4](https://raw.githubusercontent.com/Pzoom522/ProcrustEs-KGE/main/vis/fig4.png)
 
 ## About
 If you like our project or find it useful, please give us a :star: and cite us
