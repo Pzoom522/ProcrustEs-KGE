@@ -1,7 +1,6 @@
 # ProcrustEs-KGE
 Code for [Highly Efficient Knowledge Graph Embedding Learning with Orthogonal Procrustes Analysis](https://www.aclweb.org/anthology/2021.naacl-main.187/) 
 
-__:see_no_evil: A more detailed readme is coming soon__
 
 ## Tested environment
 
